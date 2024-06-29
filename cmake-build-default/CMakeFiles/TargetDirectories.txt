@@ -1,0 +1,3 @@
+/Users/m/CLionProjects/huffman/cmake-build-default/CMakeFiles/huffman.dir
+/Users/m/CLionProjects/huffman/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/m/CLionProjects/huffman/cmake-build-default/CMakeFiles/rebuild_cache.dir

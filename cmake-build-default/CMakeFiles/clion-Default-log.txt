@@ -1,0 +1,10 @@
+/Users/m/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_MAKE_PROGRAM=/Users/m/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S /Users/m/CLionProjects/huffman -B /Users/m/CLionProjects/huffman/cmake-build-default
+-- The C compiler identification is AppleClang 12.0.0.12000032
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/m/CLionProjects/huffman/cmake-build-default
